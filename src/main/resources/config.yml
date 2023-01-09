@@ -1,0 +1,5 @@
+prefix: "&7[&cDragonSlayer&7]&r "
+
+messages:
+  reload: "&aAll configurations has been reloaded"
+  broadcast: "&e{killer} &ajust killed the Ender Dragon."
